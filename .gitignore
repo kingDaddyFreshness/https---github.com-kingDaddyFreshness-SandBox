@@ -2,3 +2,6 @@ sandbox/.project
 sandbox/.settings/org.eclipse.jdt.core.prefs
 sandbox/.settings/org.eclipse.m2e.core.prefs
 sandbox/.classpath
+*.classpath
+sandbox2/.project
+*.prefs
