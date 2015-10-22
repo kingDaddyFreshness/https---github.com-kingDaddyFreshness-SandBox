@@ -5,3 +5,5 @@ sandbox/.classpath
 *.classpath
 sandbox2/.project
 *.prefs
+cassandra-test/.project
+cassandra-test/target/
